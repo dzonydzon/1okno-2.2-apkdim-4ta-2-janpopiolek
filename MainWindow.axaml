@@ -9,5 +9,5 @@
         CanResize="False"
         Title="moja aplikacja">
         
-    hejka to moje okieneczko!!!!!1!
+   <TextBlock fontSize="32"Text="moje okieneczko"/>
 </Window>
