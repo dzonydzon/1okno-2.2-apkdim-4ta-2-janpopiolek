@@ -5,7 +5,9 @@
         mc:Ignorable="d" d:DesignWidth="500" d:DesignHeight="300"
         x:Class="okno.MainWindow"
         WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
         CanResize="False"
         Title="moja aplikacja">
+        
     Welcome to Avalonia!
 </Window>
