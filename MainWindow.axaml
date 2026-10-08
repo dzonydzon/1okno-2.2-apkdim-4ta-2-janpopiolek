@@ -10,5 +10,5 @@
         Title="moja aplikacja">
         
         
-   <TextBlock Background="#FFF3C4" Foreground="Tomato" FontStyle="Italic" FontWeight="Bold" FontSize="32" Text="moje okieneczko"/>
+   <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FFF3C4" Foreground="Tomato" FontStyle="Italic" FontWeight="Bold" FontSize="32" Text="moje okieneczko"/>
 </Window>
