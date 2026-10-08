@@ -9,5 +9,5 @@
         CanResize="False"
         Title="moja aplikacja">
         
-   <TextBlock  FontWeight="Bold" fontSize="32"Text="moje okieneczko"/>
+   <TextBlock FontStyle="Italic" FontWeight="Bold" FontSize="32" Text="moje okieneczko"/>
 </Window>
